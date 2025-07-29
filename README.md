@@ -39,4 +39,6 @@ Helps stakeholders make data-driven decisions about inventory, marketing, and re
   Low Fat items generate higher sales than regular items, pointing to a shift in consumer preferences toward healthier options.
   Supermarket Type 1 is the best-performing outlet type, leading in both sales and item volume—making it ideal for expansion focus.
   The dashboard supports real-time decision-making for category managers, marketing teams, and supply chain strategists by providing a holistic view of operations and performance.
+# Screenshots/Dashboard -
+  Project looks like - https://github.com/mauryaashish78/Blinkit-Dashboard-Project-/blob/main/Screenshot%20(48).png
   
